@@ -1,0 +1,8 @@
+{
+  "currency_symbol": "₹",
+  "min_deposit": 1.0,
+  "max_deposit": 50000.0,
+  "min_withdrawal": 100.0,
+  "max_withdrawal": 20000.0,
+  "data_file_path": "data/accounts.json"
+}
