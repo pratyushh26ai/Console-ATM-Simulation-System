@@ -1,4 +1,4 @@
-```markdown
+
 # Console ATM Simulation System
 
 A lightweight, object-oriented console application written in Python that simulates essential automated teller machine (ATM) operations, including real-time balance inquiries, deposits, and withdrawals with robust input validation.
