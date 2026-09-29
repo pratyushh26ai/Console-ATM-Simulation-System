@@ -129,7 +129,7 @@ python -m unittest test_atm.py
 
 ## 📸 Screenshots
 
-*(Replace these image paths with your actual repository screenshots stored in an `assets/` or `images/` directory).*
+
 
 ### Main Menu & Deposit
 
